@@ -1,0 +1,6 @@
+@STData.API_HostAddress = http://localhost:5207
+
+GET {{STData.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
